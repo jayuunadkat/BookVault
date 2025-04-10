@@ -36,9 +36,10 @@
 ---
 
 ## 📸 Screenshots
-
-<img src="https://github.com/jayuunadkat/BookVault/BookVault/Image-Resources/Image-1.png" width="200" height="432" />
+<p float="left">
+<img src="BookVault/Image-Resources/Image-1.png" width="200" height="432" />
 <img src="BookVault/Image-Resources/Image-2.png" width="200" height="432" />
+</p>
 
 ---
 
